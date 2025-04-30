@@ -1,7 +1,7 @@
 
 # Portfolio
 
-Welcome to my personal portfolio! This repository showcases my skills, projects, and accomplishments as a computer science and engineering student. You can view my portfolio on [GitHub Pages](https://priyuan.github.io/portfolio).
+Welcome to my personal portfolio! This repository showcases my skills, projects, and accomplishments as a computer science and engineering student. You can view my portfolio on [GitHub Pages](README.md).
 
 ## 👨‍💻 About Me
 
@@ -13,7 +13,7 @@ Below are some of the featured projects I’ve worked on:
 
 - **[PCOS Detection Using ML & DL](# Portfolio
 
-Welcome to my personal portfolio! This repository showcases my skills, projects, and accomplishments as a computer science and engineering student. You can view my portfolio on [GitHub Pages](https://your-username.github.io/portfolio).
+Welcome to my personal portfolio! This repository showcases my skills, projects, and accomplishments as a computer science and engineering student. You can view my portfolio on [GitHub Pages](README.md).
 
 ## 👨‍💻 About Me
 
@@ -26,7 +26,7 @@ Below are some of the featured projects I’ve worked on:
 - **[PCOS Detection Using ML & DL](https://github.com/Priyuan/KIIT0001/tree/8e876e174769264719649e4c38b4b6643405e6e0)**: A project using ML (Random Forest, SVM) and CNNs to detect **Polycystic Ovary Syndrome**.
 - **[Sentiment Analysis using GPT-3]: Research project on analyzing sentiment from text data using GPT-3 and NLP techniques.
 
-You can find a detailed list of all my projects on the [projects page](projects.html).
+You can find a detailed list of all my projects on the .
 
 ## 🛠️ Tech Stack
 
